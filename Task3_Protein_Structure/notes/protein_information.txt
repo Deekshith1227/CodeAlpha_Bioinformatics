@@ -1,0 +1,35 @@
+Protein Name:
+Epidermal Growth Factor Receptor tyrosine kinase domain
+
+PDB ID:
+1M17
+
+Organism:
+Homo sapiens
+
+Classification:
+Transferase
+
+Experimental Method:
+X-ray Diffraction
+
+Resolution:
+2.60 Å
+
+Expression System:
+Spodoptera frugiperda
+
+Mutation:
+No
+
+Ligand:
+Erlotinib (AQ4)
+
+Chains:
+A
+
+Global Stoichiometry:
+Monomer
+
+Reference:
+Stamos J. et al.
