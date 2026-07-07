@@ -1,0 +1,35 @@
+======================================================================
+EGFR Sequence Verification
+======================================================================
+
+File      : chimpanzee_egfr.fasta
+Species   : XP_519102.3 epidermal growth factor receptor isoform X1 [Pan troglodytes]
+Length    : 1210 aa
+First 10  : MRPSGTAGAA
+Last 10   : APQSSEFIGA
+
+File      : gorilla_egfr.fasta
+Species   : XP_030868665.1 epidermal growth factor receptor isoform X1 [Gorilla gorilla gorilla]
+Length    : 1210 aa
+First 10  : MRPSGTAGAA
+Last 10   : APQSSEFIGA
+
+File      : human_egfr.fasta
+Species   : NP_005219.2 epidermal growth factor receptor isoform a precursor [Homo sapiens]
+Length    : 1210 aa
+First 10  : MRPSGTAGAA
+Last 10   : APQSSEFIGA
+
+File      : mouse_egfr.fasta
+Species   : NP_997538.1 epidermal growth factor receptor isoform 1 precursor [Mus musculus]
+Length    : 1210 aa
+First 10  : MRPSGTARTT
+Last 10   : APPSSEFIGA
+
+File      : orangutan_egfr.fasta
+Species   : XP_024105212.2 epidermal growth factor receptor isoform X1 [Pongo abelii]
+Length    : 1210 aa
+First 10  : MRSSGTAGAA
+Last 10   : TPQSSEFIGA
+
+Verification Complete
